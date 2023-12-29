@@ -1,0 +1,3 @@
+# Configuration example
+# type minimum_version maximum_version category provider:probability
+ads 0 10000 any google_ad_mob:0 app_lovin_max:1
